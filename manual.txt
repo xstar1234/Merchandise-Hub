@@ -1,0 +1,13 @@
+USER MANUAL:
+
+1. When opening the program, you are greeted with two options, being the "add" section, and
+the "edit/remove" section. To start, you'll want to open the "add" section.
+2. In the "add section," input the name of your item, the description of the item, and the price of the item. After you're finished, click the "save and create" button.
+3. The window will close automatically.
+4. To edit or remove your item, go to the "edit/remove" section. You'll be greeted by a 
+list box of your item(s), and have the option to "edit" or "remove" at the bottom.
+5. If you want to edit an item, hit "edit" to edit the item, and follow step 2.
+6. If you want to remove an item, click the item you want to remove in the list box, and
+click the "remove" button. Your item will now be removed.
+
+That's all you need to know on how to work the Merchandise Hub!
